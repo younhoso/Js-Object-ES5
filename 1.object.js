@@ -4,7 +4,7 @@ console.log(memberArray[2]);
 var memberObject = {
     manager: 'egoing',
     developer: 'graphittle',
-    designer:'leezhce'
+    designer:'leezhce '
 }
 memberObject.designer = 'leezhch';
 console.log(memberObject.designer);
